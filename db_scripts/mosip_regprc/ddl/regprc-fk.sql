@@ -1,6 +1,6 @@
 
 -- Foreign Key Constraints Same DB/Schema tables.
--- FOREIGN KEY CONSTRAINTS : mosip_regprc database/schema.
+-- FOREIGN KEY CONSTRAINTS : :mosipdbname database/schema.
 
 -- object: fk_regtrn_reg | type: CONSTRAINT --
 -- ALTER TABLE regprc.registration_transaction DROP CONSTRAINT IF EXISTS fk_regtrn_reg CASCADE;

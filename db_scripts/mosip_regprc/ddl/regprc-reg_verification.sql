@@ -1,5 +1,5 @@
 -- -------------------------------------------------------------------------------------------------
--- Database Name: mosip_regprc
+-- Database Name: :mosipdbname
 -- Table Name 	: regprc.reg_manual_verification
 -- Purpose    	: Verification: Records marked for verification will be present in this table.
 -- Create By   	: Monobikash

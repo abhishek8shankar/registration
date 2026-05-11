@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS mosip_regprc;
+DROP DATABASE IF EXISTS :mosipdbname;
 

@@ -1,4 +1,4 @@
-CREATE ROLE regprcuser WITH 
+CREATE ROLE :dbuname WITH
 	INHERIT
 	LOGIN
 	PASSWORD :dbuserpwd;
